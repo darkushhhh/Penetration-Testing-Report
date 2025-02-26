@@ -1,4 +1,4 @@
-# Penetration Testing веб-приложения
+# Penetration Testing веб-приложения "WebApp X"
 
 ## Заказчик
 
