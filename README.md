@@ -45,3 +45,4 @@
 - **Подход**: Black box тестирование с использованием общедоступных инструментов
 
 ## Ссылки на материалы
+- Полный отчет об аудите: [PenetrationTesting_Report.pdf](./PenetrationTesting_Report.pdf)
