@@ -46,3 +46,5 @@
 
 ## Ссылки на материалы
 - Полный отчет о проведенном тестирование: [PenetrationTesting_Report.pdf](./PenetrationTesting_Report.pdf)
+- Скриншоты: см. `screenshots/`
+- Исходные отчеты: см. `reports/`
